@@ -8,7 +8,11 @@
 #contact-list {
     list-style: none;
 }
+.col-project-image {
+    object-fit: contain;
+    overflow: hidden;
+    max-height: 200px;
+}
 .tech-list-item * {
     display: inline;
 }
-
