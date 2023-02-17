@@ -8,3 +8,7 @@
 #contact-list {
     list-style: none;
 }
+.tech-list-item * {
+    display: inline;
+}
+
